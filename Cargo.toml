@@ -1,11 +1,11 @@
 [package]
 name = "func_"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 description = "Proc macro to add function name constant within body of function"
 readme = "README.md"
-repository = "https://github.com/DoumanAsh/_func_"
-documentation = "https://docs.rs/_func_/"
+repository = "https://github.com/DoumanAsh/func_"
+documentation = "https://docs.rs/func_/"
 license = "BSL-1.0"
 keywords = ["func", "function", "compile-time", "macro"]
 include = [
